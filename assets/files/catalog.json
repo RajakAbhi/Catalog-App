@@ -1,0 +1,69 @@
+{
+    "products":[
+        {
+            "id": 1,
+            "name": "iphone 12 pro",
+            "desc": "Appple iphone 12th generation",
+            "price": 999,
+            "color": "#33505a",
+            "image": "assets/image/ipn.png"
+        },
+        {
+            "id": 2,
+            "name": "Pixel 5",
+            "desc": "Google Pixel phone 5th generation",
+            "price": 699,
+            "color": "#00ac51",
+            "image": "assets/image/downloadjk.png"
+        },
+        {
+        "id": 3,
+        "name": "M1 Macbook Air",
+        "desc": "Apple macbook air with apple silicon",
+        "price": 1099,
+        "color": "#e0bfae",
+        "image": "assets/image/macbook.jpg"
+        },
+        {
+        "id": 4,
+        "name": "playstation 5",
+        "desc": "Sony playstation 5th generation",
+        "price": 500,
+        "color": "#544ee4",
+        "image": "assets/image/ps5.jpg"
+        },
+        {
+        "id": 5,
+        "name": "Airpods Pro",
+        "desc": "Appple Airpods Pro 1st generation",
+        "price": 999,
+        "color": "#e3e4e9",
+        "image": "assets/image/991e0f5a-9d4e-4240-af21-4ddf87ea3a56.jpg"
+        },
+        {
+            "id": 6,
+        "name": "iPad Pro",
+        "desc": "Appple iPad Pro 2020 edition",
+        "price": 799,
+        "color": "#f73984",
+        "image": "assets/image/imagesjklm.jpg"
+        },
+        {
+            "id": 7,
+        "name": "Galaxy S21 Ultra",
+        "desc": "Samsung Galaxy S21 Ultra 2021 edition",
+        "price": 1299,
+        "color": "#1c1c1c",
+        "image": "assets/image/galaxy_s21_ultra.jpg"
+        },
+        {
+            "id": 8,
+        "name": " Galaxy S21",
+        "desc": "Samsung Galaxy S21 2021 edition",
+        "price": 899,
+        "color": "#7c95eb",
+        "image": "assets/image/galaxy_s21.png"
+        }
+        
+    ]
+}
